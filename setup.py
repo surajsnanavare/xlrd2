@@ -3,11 +3,11 @@ from setuptools import setup
 from xlrd.info import __VERSION__
 
 setup(
-    name='xlrd',
+    name='xlrd-2024',
     version=__VERSION__,
-    author='Chris Withers',
-    author_email='chris@withers.org',
-    url='http://www.python-excel.org/',
+    author='Suraj Nanavare',
+    author_email='surajsnanavare@gmail.com',
+    url='http://surajnanavare.com',
     packages=['xlrd'],
     scripts=[
         'scripts/runxlrd.py',
