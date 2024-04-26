@@ -39,7 +39,7 @@ Quick start:
 
 .. code-block:: bash
 
-    pip install xlrd
+    pip install xlrd2
     
 .. code-block:: python
 
